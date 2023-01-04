@@ -12,16 +12,16 @@ control over all remotely controllable aspects of his or her home. The
 automation system will have ability to be controlled from a central host 
 PC, the internet, and also remotely accessed via a packet PC with a web
 based application.
-<br>
+<br><br>
 Team size: 3<br>
 Duration: 10 days<br>
-Software: VS Code | Spyder<br>
-Hardware: RaspberryPi | Arduino | DHT11 | LDR | Relay <br>
+Software: VS Code | Spyder | Thonny IDE<br>
+Hardware: RaspberryPi | Arduino | DHT11 | LDR | 8- Channel Relay Module <br>
 Languages used: Python<br>
 API : Python-Flask<br>
 Frontend : HTML, CSS, JavaScript, BootStrap<br>
 Protocol: UART<br>
-
+<br>
 Screen Shots :
 ![Screenshot 2022-05-30 at 21-50-26 Smart Home](https://user-images.githubusercontent.com/91725049/171759031-51241b7d-0fba-4728-9241-0cae592ddbac.png)
 
