@@ -22,7 +22,8 @@ API : Python-Flask<br>
 Frontend : HTML, CSS, JavaScript, BootStrap<br>
 Protocol: UART<br>
 <br>
-Screen Shots :
+Screen Shots : <br>
+
 ![Screenshot 2022-05-30 at 21-50-26 Smart Home](https://user-images.githubusercontent.com/91725049/171759031-51241b7d-0fba-4728-9241-0cae592ddbac.png)
 
 ![Screenshot 2022-05-30 at 21-50-36 Smart Home](https://user-images.githubusercontent.com/91725049/171759042-5becdc1a-8b0c-4b43-b87b-2c5e8d179e55.png)
@@ -37,7 +38,35 @@ Screen Shots :
 
 ![Screenshot 2022-05-30 at 21-47-10 Coming soon page built on Smart Home Application](https://user-images.githubusercontent.com/91725049/171759131-8eee3410-fc31-421b-97c3-21e792a237da.png)
 <br>
-<br>[![](https://visitcount.itsvg.in/api?id=Akash-L-M&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 <br><br>
+
+Hardware simualtion images:<br>
+<br>
+<div style=" display: inline;" >
+&nbsp&nbsp
+ <img src="https://user-images.githubusercontent.com/91725049/215376432-6f46ddfe-52ce-421b-b1bc-7048412159d1.jpeg" width="400" height="600"> 
+ &nbsp&nbsp&nbsp&nbsp&nbsp
+ <img src="https://user-images.githubusercontent.com/91725049/215376432-6f46ddfe-52ce-421b-b1bc-7048412159d1.jpeg" width="400" height="600"> 
+ </div>
+ <br>
+ 
+![WhatsApp Image 2023-01-21 at 11 15 38 AM](https://user-images.githubusercontent.com/91725049/215376432-6f46ddfe-52ce-421b-b1bc-7048412159d1.jpeg)
+![WhatsApp Image 2023-01-21 at 11 15 40 AM](https://user-images.githubusercontent.com/91725049/215376440-64df17e8-c56b-4239-9aae-a02b7cf7dd59.jpeg)
+
+![WhatsApp Image 2023-01-21 at 11 15 40 AM(1)](https://user-images.githubusercontent.com/91725049/215376451-5d3084da-3439-4fe5-83c2-5111eac714d5.jpeg)
+![WhatsApp Image 2023-01-21 at 11 15 41 AM](https://user-images.githubusercontent.com/91725049/215376458-b7279e7e-0e6e-4c3c-b210-72f434962cda.jpeg)
+![WhatsApp Image 2023-01-21 at 11 15 41 AM(1)](https://user-images.githubusercontent.com/91725049/215376464-8f4103d6-5758-4a93-9354-fbb2ea8dbe78.jpeg)
+![WhatsApp Image 2023-01-21 at 11 17 45 AM](https://user-images.githubusercontent.com/91725049/215376478-6af9a6ef-8cbe-4808-9167-5fd6a7495f43.jpeg)
+
+<br>
+Hardware simulation videos:<br>
+<br>
+
+https://user-images.githubusercontent.com/91725049/215376540-e0716ff5-4c12-4019-b0b9-570b00443e4e.mp4
+
+
+<br>[![](https://visitcount.itsvg.in/api?id=Akash-L-M&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<br>
 Contact me for code.
