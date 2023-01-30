@@ -45,21 +45,31 @@ Screen Shots : <br>
 Hardware simualtion images:<br>
 <br>
 <div style=" display: inline;" >
-&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp&nbsp
  <img src="https://user-images.githubusercontent.com/91725049/215376432-6f46ddfe-52ce-421b-b1bc-7048412159d1.jpeg" width="400" height="600"> 
  &nbsp&nbsp&nbsp&nbsp&nbsp
- <img src="https://user-images.githubusercontent.com/91725049/215376432-6f46ddfe-52ce-421b-b1bc-7048412159d1.jpeg" width="400" height="600"> 
+ <img src="https://user-images.githubusercontent.com/91725049/215376440-64df17e8-c56b-4239-9aae-a02b7cf7dd59.jpeg" width="400" height="600"> 
  </div>
  <br>
  
-![WhatsApp Image 2023-01-21 at 11 15 38 AM](https://user-images.githubusercontent.com/91725049/215376432-6f46ddfe-52ce-421b-b1bc-7048412159d1.jpeg)
-![WhatsApp Image 2023-01-21 at 11 15 40 AM](https://user-images.githubusercontent.com/91725049/215376440-64df17e8-c56b-4239-9aae-a02b7cf7dd59.jpeg)
-
-![WhatsApp Image 2023-01-21 at 11 15 40 AM(1)](https://user-images.githubusercontent.com/91725049/215376451-5d3084da-3439-4fe5-83c2-5111eac714d5.jpeg)
-![WhatsApp Image 2023-01-21 at 11 15 41 AM](https://user-images.githubusercontent.com/91725049/215376458-b7279e7e-0e6e-4c3c-b210-72f434962cda.jpeg)
-![WhatsApp Image 2023-01-21 at 11 15 41 AM(1)](https://user-images.githubusercontent.com/91725049/215376464-8f4103d6-5758-4a93-9354-fbb2ea8dbe78.jpeg)
-![WhatsApp Image 2023-01-21 at 11 17 45 AM](https://user-images.githubusercontent.com/91725049/215376478-6af9a6ef-8cbe-4808-9167-5fd6a7495f43.jpeg)
-
+ <br>
+<div style=" display: inline;" >
+&nbsp&nbsp&nbsp&nbsp&nbsp
+ <img src="https://user-images.githubusercontent.com/91725049/215376451-5d3084da-3439-4fe5-83c2-5111eac714d5.jpeg" width="400" height="600"> 
+ &nbsp&nbsp&nbsp&nbsp&nbsp
+ <img src="https://user-images.githubusercontent.com/91725049/215376458-b7279e7e-0e6e-4c3c-b210-72f434962cda.jpeg" width="400" height="600"> 
+ </div>
+ <br>
+ 
+  <br>
+<div style=" display: inline;" >
+&nbsp&nbsp&nbsp&nbsp&nbsp
+ <img src="https://user-images.githubusercontent.com/91725049/215376464-8f4103d6-5758-4a93-9354-fbb2ea8dbe78.jpeg" width="400" height="600"> 
+ &nbsp&nbsp&nbsp&nbsp&nbsp
+ <img src="https://user-images.githubusercontent.com/91725049/215376478-6af9a6ef-8cbe-4808-9167-5fd6a7495f43.jpeg" width="400" height="600"> 
+ </div>
+ <br>
+ <br>
 <br>
 Hardware simulation videos:<br>
 <br>
