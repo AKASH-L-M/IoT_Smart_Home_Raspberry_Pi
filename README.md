@@ -69,6 +69,13 @@ Hardware simualtion images:<br>
  <img src="https://user-images.githubusercontent.com/91725049/215376478-6af9a6ef-8cbe-4808-9167-5fd6a7495f43.jpeg" width="400" height="600"> 
  </div>
  <br>
+ 
+ This project was submitted on 1st June 2022, in CSL05 Java Lab, NMAMIT, Nitte.
+<br>
+
+ 
+ And also presented to juniors on 6th Frebruary 2023, in the presence of Dr. Venugopala sir, in Digital System Design Lab, 5th Floor APJ Kalam Block NMAMIT.
+ <br>
  <br>
 <br>
 Hardware simulation videos:<br>
