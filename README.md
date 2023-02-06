@@ -15,7 +15,7 @@ based application.
 <br><br>
  
  This project was submitted on 1st June 2022, in CSL05 Java Lab, NMAMIT, Nitte .
- Submitted to Dr. Venugopala sir, Department of Computer Science and Engineering, NMAMIT, Nitte.
+ Submitted to Dr. Venugopala sir, Professor in Department of Computer Science and Engineering, NMAMIT, Nitte.
  We did not spend any amount on the proh=ject components, all the components were available in our Digital System Design Laboratory.
  We did not use any AC Circuit connections in our project. 
  <br>
