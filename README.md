@@ -13,6 +13,18 @@ automation system will have ability to be controlled from a central host
 PC, the internet, and also remotely accessed via a packet PC with a web
 based application.
 <br><br>
+ 
+ This project was submitted on 1st June 2022, in CSL05 Java Lab, NMAMIT, Nitte .
+ Submitted to Dr. Venugopala sir, Department of Computer Science and Engineering, NMAMIT, Nitte.
+ We did not spend any amount on the proh=ject components, all the components were available in our Digital System Design Laboratory.
+ We did not use any AC Circuit connections in our project. 
+ <br>
+ We used Smart Bulb to demonstrate our project.<br>
+<br>
+ And also presented to juniors on 6th Frebruary 2023, in the presence of Dr. Venugopala sir, in Digital System Design Lab, 5th Floor APJ Kalam Block NMAMIT.
+ <br>
+ 
+ 
 Team size: 3<br>
 Duration: 10 days<br>
 Software: VS Code | Spyder | Thonny IDE<br>
@@ -69,13 +81,7 @@ Hardware simualtion images:<br>
  <img src="https://user-images.githubusercontent.com/91725049/215376478-6af9a6ef-8cbe-4808-9167-5fd6a7495f43.jpeg" width="400" height="600"> 
  </div>
  <br>
- 
- This project was submitted on 1st June 2022, in CSL05 Java Lab, NMAMIT, Nitte.
-<br>
 
- 
- And also presented to juniors on 6th Frebruary 2023, in the presence of Dr. Venugopala sir, in Digital System Design Lab, 5th Floor APJ Kalam Block NMAMIT.
- <br>
  <br>
 <br>
 Hardware simulation videos:<br>
